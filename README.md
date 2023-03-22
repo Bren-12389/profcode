@@ -1,2 +1,2 @@
 # profcode
-Projeto do professor aAjax
+Projeto do professor Ajax
